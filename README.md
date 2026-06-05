@@ -1,4 +1,3 @@
-````markdown
 # Dead Stock Prediction
 
 ## Overview
@@ -202,5 +201,4 @@ Macquarie University
 
 Sydney, Australia
 
-````
 
